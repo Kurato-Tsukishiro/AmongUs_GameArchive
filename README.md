@@ -1,0 +1,2 @@
+# AmongUs_GameArchive
+試合のメモや結果を保存するリポジトリ
